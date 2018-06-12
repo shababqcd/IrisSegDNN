@@ -11,9 +11,8 @@ https://goo.gl/JVkSyG
 
 \
 The network and test files are witten in python 2.7 with Lasagne 0.2 on top of Theano 0.9.0
-Due to copyright issues we are not able to share the original databases.
 
-Researchers might obtain the oiginal images themselves.
+Due to copyright issues we are not able to share the original databases. Researchers might obtain the oiginal images themselves.
 
 \
 Datasets used in this reaserach are:
